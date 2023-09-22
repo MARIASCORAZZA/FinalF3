@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer>
         <img src='/images/DH.png' alt='DH-logo' />
-        <p>Camada 07 - Guadalupe Michel</p>
+        <p>by Maria Sol Corazza</p>
     </footer>
   )
 }
