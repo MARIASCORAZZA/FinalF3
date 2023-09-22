@@ -8,7 +8,7 @@ export function Header() {
       <div className='container'>
         <div>
           <NavLink to='/' end>
-            <img className='img' src='/images/logo.png' alt='logo'/>
+            <img className='img' src='/images/DH.png' alt='logo'/>
           </NavLink>
         </div>
         <Navbar/>
